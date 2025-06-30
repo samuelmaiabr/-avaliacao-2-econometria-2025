@@ -1,0 +1,152 @@
+─ Session info ──────────────────────────────────
+ setting  value
+ version  R version 4.5.0 (2025-04-11)
+ os       macOS Sequoia 15.5
+ system   x86_64, darwin20
+ ui       RStudio
+ language (EN)
+ collate  en_US.UTF-8
+ ctype    en_US.UTF-8
+ tz       America/Sao_Paulo
+ date     2025-06-30
+ rstudio  2025.05.0+496 Mariposa Orchid (desktop)
+ pandoc   3.6.3 @ /usr/local/bin/ (via rmarkdown)
+ quarto   1.6.42 @ /usr/local/bin/quarto
+
+─ Packages ──────────────────────────────────────
+ ! package      * version    date (UTC) lib source
+ P backports      1.5.0      2024-05-23 [?] RSPM
+ P bayestestR     0.16.0     2025-05-20 [?] RSPM
+ P bdsmatrix      1.3-7      2024-03-02 [?] RSPM
+ P broom        * 1.0.8      2025-03-28 [?] RSPM
+ P cachem         1.1.0      2024-05-16 [?] RSPM
+ P cards          0.6.0      2025-04-11 [?] RSPM
+ P checkmate      2.3.2      2024-07-29 [?] RSPM
+ P cli            3.6.5      2025-04-23 [?] RSPM
+ P collapse       2.1.2      2025-05-24 [?] RSPM
+ P commonmark     1.9.5      2025-03-17 [?] RSPM
+ P countrycode  * 1.6.1      2025-03-31 [?] RSPM
+ P cowplot      * 1.1.3      2024-01-22 [?] RSPM
+ P crayon         1.5.3      2024-06-20 [?] RSPM
+ P curl           6.4.0      2025-06-22 [?] RSPM
+ P data.table   * 1.17.6     2025-06-17 [?] RSPM
+ P datawizard     1.1.0      2025-05-09 [?] RSPM
+ P devtools       2.4.5      2022-10-11 [?] RSPM
+ P digest         0.6.37     2024-08-19 [?] RSPM
+ P dplyr        * 1.1.4      2023-11-17 [?] RSPM
+ P dreamerr       1.5.0      2025-04-18 [?] RSPM
+ P ellipsis       0.3.2      2021-04-29 [?] RSPM
+ P evaluate       1.0.4      2025-06-18 [?] RSPM
+ P farver         2.1.2      2024-05-13 [?] RSPM
+ P fastmap        1.2.0      2024-05-15 [?] RSPM
+ P filehash       2.4-6      2024-06-25 [?] RSPM
+ P fixest       * 0.12.1     2024-06-13 [?] RSPM
+ P forcats      * 1.0.0      2023-01-29 [?] RSPM
+ P Formula        1.2-5      2023-02-24 [?] RSPM
+ P fs             1.6.6      2025-04-12 [?] RSPM
+ P generics       0.1.4      2025-05-09 [?] RSPM
+ P GGally       * 2.2.1      2024-02-14 [?] RSPM
+ P ggplot2      * 3.5.2      2025-04-09 [?] RSPM
+ P ggplotify    * 0.1.2      2023-08-09 [?] RSPM
+ P ggrepel      * 0.9.6      2024-09-07 [?] RSPM
+ P ggstats        0.9.0      2025-03-10 [?] RSPM
+ P glue           1.8.0      2024-09-30 [?] RSPM
+ P gridExtra    * 2.3        2017-09-09 [?] RSPM
+ P gridGraphics   0.5-1      2020-12-13 [?] RSPM
+ P gt             1.0.0      2025-04-05 [?] RSPM
+ P gtable         0.3.6      2024-10-25 [?] RSPM
+ P gtsummary    * 2.2.0      2025-04-14 [?] RSPM
+ P hms            1.1.3      2023-03-21 [?] RSPM
+ P htmltools      0.5.8.1    2024-04-04 [?] RSPM
+ P htmlwidgets    1.6.4      2023-12-06 [?] RSPM
+ P httpuv         1.6.16     2025-04-16 [?] RSPM
+ P insight        1.3.0      2025-05-20 [?] RSPM
+ P jsonlite       2.0.0      2025-03-27 [?] RSPM
+ P kableExtra   * 1.4.0      2024-01-24 [?] RSPM
+ P knitr        * 1.50       2025-03-16 [?] RSPM
+ P labeling       0.4.3      2023-08-29 [?] RSPM
+ P later          1.4.2      2025-04-08 [?] RSPM
+ P lattice        0.22-6     2024-03-20 [?] CRAN (R 4.5.0)
+ P lifecycle      1.0.4      2023-11-07 [?] RSPM
+ P litedown       0.7        2025-04-08 [?] RSPM
+ P lmtest       * 0.9-40     2022-03-21 [?] RSPM
+ P lubridate    * 1.9.4      2024-12-08 [?] RSPM
+ P magrittr       2.0.3      2022-03-30 [?] RSPM
+ P markdown       2.0        2025-03-23 [?] RSPM
+ P MASS           7.3-65     2025-02-28 [?] CRAN (R 4.5.0)
+ P Matrix         1.7-3      2025-03-11 [?] CRAN (R 4.5.0)
+ P maxLik         1.5-2.1    2024-03-24 [?] RSPM
+ P memoise        2.0.1      2021-11-26 [?] RSPM
+ P mgcv           1.9-1      2023-12-21 [?] CRAN (R 4.5.0)
+ P mime           0.13       2025-03-17 [?] RSPM
+ P miniUI         0.1.2      2025-04-17 [?] RSPM
+ P miscTools      0.6-28     2023-05-03 [?] RSPM
+ P modelsummary * 2.4.0      2025-06-08 [?] RSPM
+ P nlme           3.1-168    2025-03-31 [?] CRAN (R 4.5.0)
+ P numDeriv       2016.8-1.1 2019-06-06 [?] RSPM
+ P parameters     0.26.0     2025-05-22 [?] RSPM
+ P patchwork    * 1.3.1      2025-06-21 [?] RSPM
+ P performance    0.14.0     2025-05-22 [?] RSPM
+ P pillar         1.10.2     2025-04-05 [?] RSPM
+ P pkgbuild       1.4.8      2025-05-26 [?] RSPM
+ P pkgconfig      2.0.3      2019-09-22 [?] RSPM
+ P pkgload        1.4.0      2024-06-28 [?] RSPM
+ P plm          * 2.6-6      2025-04-04 [?] RSPM
+ P plyr           1.8.9      2023-10-02 [?] RSPM
+ P profvis        0.4.0      2024-09-20 [?] RSPM
+ P promises       1.3.3      2025-05-29 [?] RSPM
+ P purrr        * 1.0.4      2025-02-05 [?] RSPM
+ P R6             2.6.1      2025-02-15 [?] RSPM
+ P ragg           1.4.0      2025-04-10 [?] RSPM
+ P rbibutils      2.3        2024-10-04 [?] RSPM
+ P RColorBrewer   1.1-3      2022-04-03 [?] RSPM
+ P Rcpp           1.0.14     2025-01-12 [?] RSPM
+ P Rdpack         2.6.4      2025-04-09 [?] RSPM
+ P readr        * 2.1.5      2024-01-10 [?] RSPM
+ P remotes        2.5.0      2024-03-17 [?] RSPM
+   renv           1.1.0      2025-01-29 [1] RSPM (R 4.5.0)
+ P rlang          1.1.6      2025-04-11 [?] RSPM
+ P rmarkdown      2.29       2024-11-04 [?] RSPM
+ P rstudioapi     0.17.1     2024-10-22 [?] RSPM
+ P sandwich     * 3.1-1      2024-09-15 [?] RSPM
+ P sass           0.4.10     2025-04-11 [?] RSPM
+ P scales         1.4.0      2025-04-24 [?] RSPM
+ P sessioninfo    1.2.3      2025-02-05 [?] RSPM
+ P shiny          1.11.0     2025-06-24 [?] RSPM
+ P showtext     * 0.9-7      2024-03-02 [?] RSPM
+ P showtextdb   * 3.0        2020-06-04 [?] RSPM
+ P stringi        1.8.7      2025-03-27 [?] RSPM
+ P stringmagic    1.2.0      2025-04-18 [?] RSPM
+ P stringr      * 1.5.1      2023-11-14 [?] RSPM
+ P svglite        2.2.1      2025-05-12 [?] RSPM
+ P sysfonts     * 0.8.9      2024-03-02 [?] RSPM
+ P systemfonts    1.2.3      2025-04-30 [?] RSPM
+ P tables         0.9.31     2024-08-29 [?] RSPM
+ P textshaping    1.0.1      2025-05-01 [?] RSPM
+ P tibble       * 3.3.0      2025-06-08 [?] RSPM
+ P tidyr        * 1.3.1      2024-01-24 [?] RSPM
+ P tidyselect     1.2.1      2024-03-11 [?] RSPM
+ P tidyverse    * 2.0.0      2023-02-22 [?] RSPM
+ P tikzDevice   * 0.12.6     2023-11-29 [?] RSPM
+ P timechange     0.3.0      2024-01-18 [?] RSPM
+ P tinytable      0.9.0      2025-05-04 [?] RSPM
+ P tzdb           0.5.0      2025-03-15 [?] RSPM
+ P urlchecker     1.0.1      2021-11-30 [?] RSPM
+ P usethis        3.1.0      2024-11-26 [?] RSPM
+ P utf8           1.2.6      2025-06-08 [?] RSPM
+ P vctrs          0.6.5      2023-12-01 [?] RSPM
+ P viridisLite    0.4.2      2023-05-02 [?] RSPM
+ P withr          3.0.2      2024-10-28 [?] RSPM
+ P xfun           0.52       2025-04-02 [?] RSPM
+ P xml2           1.3.8      2025-03-14 [?] RSPM
+ P xtable       * 1.8-4      2019-04-21 [?] RSPM
+ P yulab.utils    0.2.0      2025-01-29 [?] RSPM
+ P zoo          * 1.8-14     2025-04-10 [?] RSPM
+
+ [1] /Users/samuelmaia/Documents/complexity_inequality/paper/work/project-inequality-eci/renv/library/macos/R-4.5/x86_64-apple-darwin20
+ [2] /Users/samuelmaia/Library/Caches/org.R-project.R/R/renv/sandbox/macos/R-4.5/x86_64-apple-darwin20/c8cd77eb
+
+ * ── Packages attached to the search path.
+ P ── Loaded and on-disk path mismatch.
+
+─────────────────────────────────────────────────
