@@ -77,7 +77,7 @@ Avaliacao-2-Econometria/
 ## 📬 Contato
 
 Dúvidas sobre replicação ou execução do código?
-Envie e-mail para **samuelmaiabr (at) gmail.com** com o assunto *"ECN I – Avaliação 2"*.
+Envie e-mail para **samuelmaia (at) cedeplar.ufmg.br** com o assunto *"ECN I – Avaliação 2"*.
 
 ---
 
