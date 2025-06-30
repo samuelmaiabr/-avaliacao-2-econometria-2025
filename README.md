@@ -54,27 +54,7 @@ Este repositório usa `renv` para garantir reprodutibilidade computacional. Para
 renv::restore()
 ```
 
----
-
-## Organização do Repositório
-
-```plaintext
-Avaliacao-2-Econometria/
-┣  data/
-┃ ┣  raw/         # Dados originais (WID, Atlas)
-┃ ┗  processed/   # Painéis e bases combinadas
-┣  output/
-┃ ┣  figures/     # Gráficos gerados
-┃ ┗  tables/      # Tabelas finais (.tex, .csv)
-┣  Maia-2025-Av-2-Econometrics.R   # Script principal de replicação
-┣  renv.lock       # Arquivo de dependências para reprodutibilidade
-┣  session-info.txt # Informações da sessão R (versões e pacotes)
-┗  README.md
-```
-
----
-
-## 📬 Contato
+## Contato
 
 Dúvidas sobre replicação ou execução do código?
 Envie e-mail para **samuelmaia (at) cedeplar.ufmg.br** com o assunto *"ECN I – Avaliação 2"*.
