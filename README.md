@@ -2,7 +2,7 @@
 
 Este repositório contém o script principal e os arquivos auxiliares utilizados na **Avaliação 2** da disciplina de *Econometria I* (Prof.ª Ana Hermeto — Cedeplar/UFMG, 1º semestre/2025).
 
-O exercício explora os seguintes temas: **endogeneidade, variáveis instrumentais (2SLS), dados em painel, efeitos fixos e aleatórios, primeiras diferenças, lags e robustez de especificação**. Tratei deles a partir de uma análise da relação entre **complexidade econômica (ECI)** e **desigualdade de renda**.
+O exercício explora os seguintes temas: **endogeneidade, variáveis instrumentais (2SLS), dados em painel, efeitos fixos e aleatórios, primeiras diferenças, lags e robustez de especificação**. Tratei deles a partir de uma análise da relação entre **complexidade econômica (ECI)** e **desigualdade de renda**. O `.pdf` com arquivo finalizado se chama `samuel-exercicio-econometria_2025_av_2`.
 
 ---
 
